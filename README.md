@@ -1,6 +1,6 @@
 # VITMAS_TASK0--_21MID0067
-VITMAS_TASK0
-VITMAS_Task0_-21MID0036-
+
+
 1.git config
 This command sets the author name and email address to be used with your commits. Git config is also used in other scenarios.
 
